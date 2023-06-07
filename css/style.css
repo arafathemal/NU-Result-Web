@@ -38,8 +38,9 @@ img {
 }
 
 .btn {
-    border: 1px #002fff solid;
+    border: 1px #788ff8 solid;
     padding: 5px;
+    background-color: #dfdede;
 }
 
 /* end body */
