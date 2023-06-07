@@ -1,0 +1,60 @@
+.head-part {
+    display: flex;
+    background-color: #006994;
+    color: white;
+    padding-left: 100px;
+    padding-right: 400px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+img {
+    width: 100px;
+    padding: 10px;
+}
+
+.p-style {
+    border-left: 3px orange solid;
+    padding-left: 15px;
+}
+
+/* end head */
+/* ------------------- */
+/* body */
+.main-part-style {
+    background-color: #fdf6f6;
+    padding: 20px;
+}
+
+.form-part {
+    border: 2px #0a161b solid;
+    margin-left: 300px;
+    margin-right: 150px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 370px;
+    text-align: center;
+
+}
+
+.btn {
+    border: 1px #002fff solid;
+    padding: 5px;
+}
+
+/* end body */
+/* --------------------- */
+/* footer */
+
+.footer-part {
+    background-color: #217292;
+    display: flex;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.footer-1 {
+    padding-left: 10px;
+    padding-right: 270px;
+    color: yellow;
+}
