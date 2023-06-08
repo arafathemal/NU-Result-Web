@@ -8,6 +8,10 @@
     padding-top: 5px;
 }
 
+hr {
+    width: 450px;
+}
+
 img {
     width: 100px;
     padding: 10px;
@@ -31,8 +35,8 @@ img {
     margin-left: 300px;
     margin-right: 150px;
     margin-top: 30px;
-    margin-bottom: 10px;
-    height: 370px;
+    margin-bottom: 5px;
+    height: 280px;
     text-align: center;
 
 }
